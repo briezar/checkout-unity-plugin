@@ -1,0 +1,4 @@
+framework module CheckoutPlugin_iOS {
+  header "CheckoutPlugin_iOS-Swift.h"
+  requires objc
+}

@@ -1,0 +1,8 @@
+platform :ios, '13.0'
+use_frameworks!
+
+target 'CheckoutPlugin_iOS' do
+  pod 'Checkout', '~> 4'
+  pod 'Frames', '~> 4'
+  pod 'Risk', '~> 3'
+end
